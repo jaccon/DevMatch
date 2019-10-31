@@ -1,14 +1,14 @@
 # DevMatch
 A simple application to connect developers
 
-## Stack Backend
-NodeJS
-Express
-MongoDB
-WebSockets
+### Stack Backend
+NodeJS \n
+Express \n
+MongoDB \n
+WebSockets \n
 
-## Stack Frontend
+### Stack Frontend
 ReactJS
 
-## Stack Mobile
+### Stack Mobile
 React Native
